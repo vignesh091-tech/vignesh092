@@ -1,0 +1,14 @@
+[
+{
+    "username": "Demosalesmanager",
+    "password": "crmsfa",
+    "type": "valid"
+},
+{
+"username": "admin",
+    "password": "wrongpass",
+    "type": "invalid"
+
+}
+
+]
