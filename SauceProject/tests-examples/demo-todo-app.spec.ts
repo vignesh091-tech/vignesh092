@@ -5,7 +5,7 @@ test.beforeEach(async ({ page }) => {
 });
 
 const TODO_ITEMS = [
-  'buy some cheese',
+  'buy some cheese and pizza',
   'feed the cat',
   'book a doctors appointment'
 ] as const;
